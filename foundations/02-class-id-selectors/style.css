@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffc0ff;
+    font-family: "Verdana",sans-serif;
+}
+
+.odd.big-boi{
+    font-size: 24px;
+}
+
+#blue-boi {
+    color: #1e81b0;
+    font-size: 36px;
+}
+
+#green-boi {
+    background-color: #81DC88;
+    font-size: 36px;
+    font-weight: bold;
+}
